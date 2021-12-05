@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson6</string>
+    <string name="task1">Заметка 1</string>
+    <string name="date1">24.05.2021</string>
+    <string name="descr1">Сходить туда</string>
+    <string name="time1">16:30</string>
+    <string name="task2">Заметка 2</string>
+    <string name="date2">16.09.2021</string>
+    <string name="descr2">Сходить сюда</string>
+    <string name="time2">10:23</string>
+    <string name="totalDescr1">Сходить туда, не знаю куда и найти то, не знаю что</string>
+    <string name="totalDescr2">Встретиться с одним человеком и вернуться домой</string>
+</resources>
